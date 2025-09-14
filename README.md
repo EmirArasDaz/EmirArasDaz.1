@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, ben Emir Daz</h1>
+<h1 align="center">Merhaba 👋, ben Emir Daz</h1> 
 <h3 align="center">Türkiye'den tutkulu bir ön yüz geliştiricisi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emirarasdaz&label=Profile%20views&color=0e75b6&style=flat" alt="emirarasdaz" /> </p>
